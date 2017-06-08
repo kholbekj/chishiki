@@ -1,0 +1,4 @@
+project=chishiki
+architecture=container
+test=minitest
+template=erb
